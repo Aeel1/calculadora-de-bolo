@@ -5,5 +5,5 @@ O projeto da calculadora de bolo é para facilitar, na hora de saber a quantidad
 ## Tela 
 
 <p>
-    <img width="300" src="./screenshot/tela1.png"/>
+    <img width="300" src="https://github.com/Aeel1/calculadora-de-bolo/blob/main/Screenshot/tela1.PNG"/>
 </p>
